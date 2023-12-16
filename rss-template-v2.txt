@@ -3,8 +3,8 @@
 <title>嘎!RSS</title>
 <dateCreated>Sat, 04 Dec 2021 04:18:35 GMT</dateCreated>
 <dateModified>{date_modified}</dateModified>
-<ownerName>zhaoolee</ownerName>
-<ownerEmail>zhaoolee@gmail.com</ownerEmail>
+<ownerName>Apple</ownerName>
+<ownerEmail>huoming@qun.mail.163.com</ownerEmail>
 <expansionState/>
 <vertScrollState>1</vertScrollState>
 <windowTop>61</windowTop>
