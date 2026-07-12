@@ -1,4 +1,4 @@
-# Github Actions Rss (garss, 嘎RSS! 已收集206个RSS源, 生成时间: 2026-07-11 08:03:12)
+# Github Actions Rss (garss, 嘎RSS! 已收集206个RSS源, 生成时间: 2026-07-12 08:00:37)
 
 ## 《嘎!RSS》🐣为打破信息茧房而生
 
@@ -40,12 +40,12 @@
 | --- | --- | --- | --- |  --- |
 | <h2 id="软件工具">软件工具</h2> |  |   |  |
 | S001 |  不死鸟 | 不死鸟:专注分享优质资源 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iao.su) |  [订阅地址](https://iao.su/feed) | 
-| S002 | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ Dropzone 5.0.9 一款提高电脑操作效率的工具 \| 2026-07-09](https://xclient.info/s/dropzone.html)<br/>[‣ Dropshare 6.14 免费的个人云存储解决方案 \| 2026-07-09](https://xclient.info/s/dropshare.html) | [订阅地址](https://xclient.info/feed) | 
+| S002 | 精品MAC应用分享 | 精品MAC应用分享，每天分享大量mac软件，为您提供优质的mac软件,免费软件下载服务 |  [‣ MindNode 2026.4 思维导图工具 \| 2026-07-11](https://xclient.info/s/mind-node-pro.html)<br/>[‣ RunJS 4.1.0 JavaScript 和 TypeScript 编程环境 \| 2026-07-11](https://xclient.info/s/runjs.html) | [订阅地址](https://xclient.info/feed) | 
 | S003 | 老殁 | 免费推荐优秀软件 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.mpyit.com) | [订阅地址](https://www.mpyit.com/feed) |
 | S004 | 鹏少资源网 | 专注于精品软件收录分享 |   [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.jokerps.com) | [订阅地址](https://www.jokerps.com/feed) |
-| S005 | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ Catime 开发者，真跑去种地了？ \| 2026-07-10](https://www.appinn.com/catime-1-5/)<br/>[‣ 本周赛博领鸡蛋：《新星群岛》《纹身大亨》《公主农夫》（7.10~7.16） \| 2026-07-10](https://www.appinn.com/eggs-26710/) | [订阅地址](https://www.appinn.com/feed/) | 
+| S005 | 小众软件 | 分享免费、小巧、实用、有趣、绿色的软件 | [‣ MapToPoster JS – 低调又有范儿的地图海报 \| 2026-07-11](https://www.appinn.com/maptoposter-js/)<br/>[‣ SumatraPDF Plus 增强版：完美中文排版、全渲染暗黑模式、双击查词、大文件加速 \| 2026-07-11](https://www.appinn.com/sumatrapdf-plus/) | [订阅地址](https://www.appinn.com/feed/) | 
 | S006 | 懒得勤快的博客 | 懒得勤快，互联网分享精神，勤于发现，乐于分享 |  [暂无法通过爬虫获取信息, 点击进入源网站主页](https://masuit.com) | [订阅地址](https://masuit.com/rss) |
-| S007 | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ SoftOrbits Photo Retoucher – 照片美化工具\[终身不可更新授权\]\[Windows\]\[$49.99→0\] \| 2026-07-10](https://free.apprcn.com/softorbits-photo-retoucher-33/)<br/>[‣ 限时免费获取字体 Calming\[Windows、macOS\]\[$19→0\] \| 2026-07-10](https://free.apprcn.com/limited-time-get-calming-for-free/) | [订阅地址](https://free.apprcn.com/feed/) | 
+| S007 | 反斗限免 | 反斗软件旗下软件限免资讯网站 |  [‣ 限时免费获取 Epic 游戏 Princess Farmer\[iOS、Android\]\[¥15→0\] \| 2026-07-11](https://free.apprcn.com/limited-time-get-epic-game-princess-farmer-for-free/)<br/>[‣ Aiseesoft WhatsSync - WhatsApp 文件传输工具\[Windows\] \| 2026-07-11](https://free.apprcn.com/aiseesoft-whatssync-2/) | [订阅地址](https://free.apprcn.com/feed/) | 
 | S008 | 异次元软件世界  | 极具人气和特色的软件网站！专注于推荐优秀软件、APP应用和互联网资源，每篇图文评测都极其用心，并提供大量软件资源下载。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/iplay/home) |  
 | <h2 id="活着的个人独立博客">活着的个人独立博客</h2> |  |   |  |
 | B001 |  阮一峰的网络日志 | 一个科技博客，讲解的知识通俗易懂 |  [‣ 科技爱好者周刊（第 403 期）：为什么 Dropbox 不成功 \| 2026-07-10](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-403.html)<br/>[‣ 科技爱好者周刊（第 402 期）：我在智念 AI 的日子（小说） \| 2026-07-10](http://www.ruanyifeng.com/blog/2026/07/weekly-issue-402.html) | [订阅地址](http://www.ruanyifeng.com/blog/atom.xml) |
@@ -55,7 +55,7 @@
 | B005 | 方圆小站 | zhaoolee的杂谈博客  | [‣ A除最畜生的一代模型 Claude 5 发布后… \| 2026-06-10](https://fangyuanxiaozhan.com/p/2026-06-10-14-25-36-anthropic-fable-5/)<br/>[‣ OpenClaw变现的途径 \| 2026-06-10](https://fangyuanxiaozhan.com/p/2026-02-09-21-58-15-openclaw/) | [订阅地址](https://fangyuanxiaozhan.com/feed/) |
 | B006 | V2方圆 | 防加班办公工具技能宝典  | [‣ 109_Opossum_负鼠_BQB \| 2026-06-19](https://v2fy.com/p/109_opossum_%e8%b4%9f%e9%bc%a0_bqb/)<br/>[‣ 6个月AI消费1万2000元的6条超值经验 \| 2026-06-19](https://v2fy.com/p/2026-05-07-14-41-15-1000-yuan/) | [订阅地址](https://v2fy.com/feed/) |
 | B007 | 老左笔记 | 记录云主机商活动和建站运维教程  | [‣ Lightlayer 几款美国洛杉矶云服务器 低至$29.9/年 美国原生IP \| 2026-07-10](https://www.laozuo.org/33188.html)<br/>[‣ SVR4U新晋马来西亚服务商2款年付VPS 低至年付$17.76 \| 2026-07-10](https://www.laozuo.org/33181.html) | [订阅地址](https://www.laozuo.org/feed) |
-| B008 | FLiNG Trainer | 修改器大神风灵月影 | [‣ Assassin’s Creed Black Flag Resynced Trainer \| 2026-07-09](https://flingtrainer.com/trainer/assassins-creed-black-flag-resynced-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=assassins-creed-black-flag-resynced-trainer)<br/>[‣ The Adventures of Elliot: The Millennium Tales Trainer \| 2026-07-09](https://flingtrainer.com/trainer/the-adventures-of-elliot-the-millennium-tales-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=the-adventures-of-elliot-the-millennium-tales-trainer) | [订阅地址](https://flingtrainer.com/feed/) |
+| B008 | FLiNG Trainer | 修改器大神风灵月影 | [‣ Echoes of Aincrad Trainer \| 2026-07-11](https://flingtrainer.com/trainer/echoes-of-aincrad-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=echoes-of-aincrad-trainer)<br/>[‣ Assassin’s Creed Black Flag Resynced Trainer \| 2026-07-11](https://flingtrainer.com/trainer/assassins-creed-black-flag-resynced-trainer/?utm_source=rss&utm_medium=rss&utm_campaign=assassins-creed-black-flag-resynced-trainer) | [订阅地址](https://flingtrainer.com/feed/) |
 | B009 | 奔跑中的奶酪 | 有智，有趣，有爱 | [‣ 奶酪清单 \| 2026-03-10](https://www.runningcheese.com/a)<br/>[‣ 奶酪资源 \| 2026-03-10](https://www.runningcheese.com/b) | [订阅地址](https://www.runningcheese.com/feed) |
 | B010 | 唐巧的博客 | 记录下自己学习的点滴 | [‣ 如何写一篇 AI 味很重的文章 \| 2026-07-07](https://blog.devtang.com/2026/07/07/write-an-ai-taste-article/)<br/>[‣ 黑洞健身的进化 — AI 时代的一人 App \| 2026-07-07](https://blog.devtang.com/2026/07/03/heidong-fitness-evolution/) | [订阅地址](https://blog.devtang.com/atom.xml) |
 | B011 | I'M TUALATRIX | Hello! This is TualatriX's blog | [‣ 记「乾坤大挪移」式使用双系统 \| 2025-07-23](https://imtx.me/blog/macos-dual-boot/)<br/>[‣ Now \| 2025-07-23](https://imtx.me/now/) | [订阅地址](https://imtx.me/feed/latest/) |
@@ -102,7 +102,7 @@
 | B052 | sunnyxx | sunnyxx的技术博客  | [‣ 重识 Objective-C Runtime - 看透 Type 与 Value \| 2016-08-13](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-1/)<br/>[‣ 重识 Objective-C Runtime - Smalltalk 与 C 的融合 \| 2016-08-13](http://blog.sunnyxx.com/2016/08/13/reunderstanding-runtime-0/)  |  [订阅地址](http://blog.sunnyxx.com/atom.xml) | 
 | B053 | 搞笑談軟工 | 敏捷開發，設計模式，精實開發，Scrum，軟體設計，軟體架構  | [‣ 學習總在課堂後 \| 2025-06-08](https://teddy-chen-tw.blogspot.com/2025/06/blog-post.html)<br/>[‣ 重構既有系統，邁向整潔架構 （6）：第三回合，在使用案例層讀寫分離 \| 2025-06-08](https://teddy-chen-tw.blogspot.com/2024/09/6.html)  |  [订阅地址](http://teddy-chen-tw.blogspot.com/feeds/posts/default) | 
 | B054 | Beyond the Void | 遊記、語言學、經濟學、信息學競賽/ACM經驗、算法講解、技術知識  | [‣ 我的遊記 \| 2016-09-30](https://byvoid.com/zht/travel/)<br/>[‣ 關於 \| 2016-09-30](https://byvoid.com/zht/about/)  |  [订阅地址](https://byvoid.com/zht/feed.xml) | 
-| B055 | Est's Blog | This blog is rated  R, viewer discretion is advised  | [‣ 写作能力和 locate cost \| 2026-07-09](https://blog.est.im/2026/stderr-24)<br/>[‣ grep vs sqlite 谁更适合微信聊天记录？ \| 2026-07-09](https://blog.est.im/2026/stdout-26)  |  [订阅地址](https://blog.est.im/rss) | 
+| B055 | Est's Blog | This blog is rated  R, viewer discretion is advised  | [‣ MiMoCode 干完活儿发通知 \| 2026-07-11](https://blog.est.im/2026/stdout-27)<br/>[‣ 写作能力和 locate cost \| 2026-07-11](https://blog.est.im/2026/stderr-24)  |  [订阅地址](https://blog.est.im/rss) | 
 | B056 | 卢昌海个人主页 | Changhai Lu's Homepage  | [‣ Latest post on Threads：2026.07.09 \| 2026-07-10](https://www.changhai.org/articles/miscellaneous/eblog/202605.php#latest)<br/>[‣ 最新微博：2026 年 7 月 7 日 \| 2026-07-10](https://www.changhai.org/articles/miscellaneous/blog/202607.php#latest)  |  [订阅地址](https://www.changhai.org//feed.xml) | 
 | B057 | 程序师 | 程序员、编程语言、软件开发、编程技术 | [‣ 问题解决：在 Android 上的 Ubuntu chroot 环境中运行 apt-get update 失败 \| 2026-05-20](https://www.techug.com/post/apt-get-update-fails-on-chroot-ubuntu-on-android/)<br/>[‣ 耶鲁大学：中国风电与太阳能建设令人惊叹 \| 2026-05-20](https://www.techug.com/post/china-renewable-photo-essay/)  |  [订阅地址](https://www.techug.com/feed) | 
 | B058 | bang's blog | 我的世界 | [‣ Agent 模型的思维链是什么 \| 2026-01-12](https://blog.cnbang.net/uncategorized/4279/)<br/>[‣ 密码保护：2025 \| 2026-01-12](https://blog.cnbang.net/living/4271/)  |  [订阅地址](http://blog.cnbang.net/feed/) | 
@@ -127,9 +127,9 @@
 | B077 | 硕鼠的博客站 | 范路的博客主站，时而会发些东西。 | [‣ Meta投毒与AI数据污染 \| 2026-07-10](https://lukefan.com/2026/07/10/meta-ai-data-poisoning-meme-explained/)<br/>[‣ 华为天才少年被质疑抄代码，DeepSeek面试翻车，谁的错？ \| 2026-07-10](https://lukefan.com/2026/07/09/deepseek-li-bojie-interview-controversy/)  |  [订阅地址](http://lukefan.com/?feed=rss2) | 
 | B078 | 构建我的被动收入 | Lifelong Learner | [‣ Agent 时代的软件接口 \| 2026-06-14](https://www.bmpi.dev/dev/agent-native-system-paradigm/)<br/>[‣ 一个 WebRTC 聊天室的三次演进 \| 2026-06-14](https://www.bmpi.dev/dev/free4chat/)  |  [订阅地址](https://www.bmpi.dev/index.xml) | 
 |  B079 | Livid | Beautifully Advance | [‣ Installing Jekyll on macOS Ventura \| 2023-01-03](https://livid.v2ex.com/guides/2023/01/03/jekyll-macos-ventura.html)<br/>[‣ 20210531 \| 2023-01-03](https://livid.v2ex.com/diaries/2021/05/31/20210531.html)  |  [订阅地址](https://livid.v2ex.com/feed.xml) | 
-| B080 | 胡涂说 | hutusi.com | [‣ Fable 5 回归，但是用不起…… \| 2026-07-02](https://hutusi.com/flows/2026/07/02)<br/>[‣ Claude Fable 5: 短暂的寓言 \| 2026-07-02](https://hutusi.com/flows/2026/06/13)  |  [订阅地址](https://hutusi.com/feed.xml) | 
+| B080 | 胡涂说 | hutusi.com | [‣ 《认知觉醒》 \| 2026-07-11](https://hutusi.com/flows/2026/07/11)<br/>[‣ Fable 5 回归，但是用不起…… \| 2026-07-11](https://hutusi.com/flows/2026/07/02)  |  [订阅地址](https://hutusi.com/feed.xml) | 
 | B081 | 鸟窝 | 万物之始，大道至简，衍化至繁 | [‣ 代码在发臭：一个能"闻"出坏味道的 AI 技能，我拿它扫了最新的开源代码 \| 2026-07-04](https://colobu.com/2026/07/04/ai-skill-sniffs-out-code-smells/)<br/>[‣ 百度网络监控工具开源第四弹：evr — 构造 VXLAN 探测 \| 2026-07-04](https://colobu.com/2026/06/30/baidu-network-monitor-evr-vxlan-probe/)  |  [订阅地址](https://colobu.com/atom.xml) |
-| B082 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [‣ On Children \| 2026-07-10](https://www.kawabangga.com/posts/7328)<br/>[‣ 生活来在一个包里 \| 2026-07-10](https://www.kawabangga.com/posts/7314) | [订阅地址](https://www.kawabangga.com/feed) |
+| B082 | 卡瓦邦噶！ | 无法自制的人得不到自由。 | [‣ Hello, World! \| 2026-07-11](https://www.kawabangga.com/posts/7336)<br/>[‣ On Children \| 2026-07-11](https://www.kawabangga.com/posts/7328) | [订阅地址](https://www.kawabangga.com/feed) |
 | B083 | 方圆STU | 天是方的，地是圆的。 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://fangyuanstu.com) | [订阅地址](https://fangyuanstu.com/feed/) |
 | B084 | 折影轻梦 | 崇尚自由、热爱科学与艺术 | [‣ Viora 招聘：AI Design Engineer / AI Growth Engineer \| 2026-05-26](https://nexmoe.com/posts/viora-hire-ai-design-growth)<br/>[‣ 我做了个 VS Code 小工具，用来看本机和远程服务器的资源占用 \| 2026-05-26](https://nexmoe.com/%E4%BA%A7%E5%93%81/20260525-vscode-monitor-pro-0-7) | [订阅地址](https://nexmoe.com/atom.xml) |
 | B085 | 不羁阁 | 行走少年郎 不羁，谓才行高远，不可羁系也 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://bujige.net) | [订阅地址](https://bujige.net/atom.xml) |
@@ -176,7 +176,7 @@
 | B126 |  失眠海峡 |   我要与你坦诚相见   | [‣ 熊猫小A: 天呐，现在的垃圾评论升级了，已经是 AI 垃圾评论了 \| 2026-05-12](https://blog.imalan.cn/archives/memo-20260512-1800/)<br/>[‣ 我的中式梦核与蒸汽波体验 \| 2026-05-12](https://blog.imalan.cn/archives/chinese-dreamcore-and-vaporwave/) | [订阅地址](https://blog.imalan.cn/feed/index.xml) |
 | B127 |  千古壹号的博客 |   一个京东前端工程师   | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://qianguyihao.com) | [订阅地址](https://qianguyihao.com/atom.xml) |
 | <h2 id="数码">数码</h2> |  |   |  |
-| D001 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | [‣ 本周看什么 \| 最近值得一看的 8 部作品 \| 2026-07-10](https://sspai.com/post/112169)<br/>[‣ 安达卢西亚的日与夜：格拉纳达漫游指南 \| 2026-07-10](https://sspai.com/post/112097)  |  [订阅地址](https://sspai.com/feed) | 
+| D001 | 少数派 | 少数派致力于更好地运用数字产品或科学方法，帮助用户提升工作效率和生活品质 | [‣ 暴雨和洪涝的季节，这些技巧助你从容自保 \| 2026-07-11](https://sspai.com/post/68024)<br/>[‣ 本周看什么 \| 最近值得一看的 8 部作品 \| 2026-07-11](https://sspai.com/post/112169)  |  [订阅地址](https://sspai.com/feed) | 
 | D002 | 数字尾巴 | 分享美好数字生活 | [‣ 【回顾】一起 "Glow"！WWDC26 尾巴分享会 \| 2026-06-11](http://www.dgtle.com/article-1730623-1.html)<br/>[‣ 不是升级平板，而是重新定义 \| 华为MatePad Pro Max体验 \| 2026-06-11](http://www.dgtle.com/article-1730226-1.html)  |  [订阅地址](https://www.dgtle.com/rss/dgtle.xml) | 
 | D003 | Chiphell  | 分享与交流用户体验 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.chiphell.com)  |  [订阅地址](https://www.chiphell.com/portal.php?mod=rss)  | 
 | <h2 id="IT团队博客">IT团队博客</h2> |  |   |  |
@@ -193,14 +193,14 @@
 | C001 | Apple新闻 | Apple官方消息 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.apple.com)  |  [订阅地址](https://www.apple.com/newsroom/rss-feed.rss) |  
 | <h2 id="互联网类">互联网类</h2> |  |   |  |
 | H001 | 虎嗅 | 虎嗅网新闻 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.huxiu.com)  |  [订阅地址](https://www.huxiu.com/rss/0.xml) |  
-| H002 | 36kr | 36氪 | [‣ 氪星晚报｜德国大众拟大裁员，最高或裁减12万个岗位；高盛称套利交易当前处境为2000年以来最佳；百亿私募数量达142家，再次刷新历史纪录 \| 2026-07-10](https://36kr.com/p/3889551814916614?f=rss)<br/>[‣ 徕芬产线将向珠海集中，剃须刀、牙刷拉动新增长丨最前线 \| 2026-07-10](https://36kr.com/p/3889524008303363?f=rss)  |  [订阅地址](https://www.36kr.com/feed) |  
+| H002 | 36kr | 36氪 | [‣ 独家 \| 智谱创始人唐杰发内部信：「GLM 时刻」之后，什么是更重要的事 \| 2026-07-11](https://36kr.com/p/3891132709206784?f=rss)<br/>[‣ 9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体 \| 2026-07-11](https://36kr.com/p/3890553690192384?f=rss)  |  [订阅地址](https://www.36kr.com/feed) |  
 | H003 | 微软亚洲研究院 | 微软亚洲研究院技术博客 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.msra.cn)  |  [订阅地址](https://www.msra.cn/feed) | 
 | H004 | 极客公园 | 极客公园  | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.geekpark.net)  |  [订阅地址](https://www.geekpark.net/rss) | 
 | <h2 id="金融类">金融类</h2> |  |   |  |
-| F001 | 雪球 | 聪明的投资者都在这里,雪球每日精华 | [‣ 中远海控2026年半年度归母净利润预测与全年展望！ \| 2026-07-10](http://xueqiu.com/5742821612/399404145)<br/>[‣ 为什么长期持股难？ \| 2026-07-10](http://xueqiu.com/2386334596/399462676)  |  [订阅地址](https://xueqiu.com/hots/topic/rss) |  
+| F001 | 雪球 | 聪明的投资者都在这里,雪球每日精华 | [‣ 双创“鲸落”，喜大普奔 \| 2026-07-11](http://xueqiu.com/3559889031/399621132)<br/>[‣ 投资股票指数，必须研究成份股变化 \| 2026-07-11](http://xueqiu.com/1340904670/399644615)  |  [订阅地址](https://xueqiu.com/hots/topic/rss) |  
 | <h2 id="科技类">科技类</h2> |  |   |  |
-| T001 | Hack News | 极其优质的极客新闻 | [‣ QuadRF can spot drones and see WiFi through my wall \| 2026-07-10](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)<br/>[‣ Apple sues OpenAI, accuses ex-employees of stealing trade secrets \| 2026-07-10](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)  |  [订阅地址](https://news.ycombinator.com/rss) |  
-| T002 | 奇客Solidot–传递最新科技情报 | 奇客的资讯，重要的东西 | [‣ 现代环境让大脑不堪重负 \| 2026-07-10](https://www.solidot.org/story?sid=84803)<br/>[‣ 权威型领导人推动员工安静辞职 \| 2026-07-10](https://www.solidot.org/story?sid=84802)  |  [订阅地址](https://www.solidot.org/index.rss) |  
+| T001 | Hack News | 极其优质的极客新闻 | [‣ Stop Telling Me to Ask an LLM \| 2026-07-11](https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/)<br/>[‣ Weightlifting beats running for blood sugar control, researchers find \| 2026-07-11](https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html)  |  [订阅地址](https://news.ycombinator.com/rss) |  
+| T002 | 奇客Solidot–传递最新科技情报 | 奇客的资讯，重要的东西 | [‣ 布朗大学经济学教授怀疑班级里多数学生使用 AI 作弊 \| 2026-07-11](https://www.solidot.org/story?sid=84806)<br/>[‣ 苹果起诉 OpenAI，指控前华裔员工窃取商业机密 \| 2026-07-11](https://www.solidot.org/story?sid=84805)  |  [订阅地址](https://www.solidot.org/index.rss) |  
 | T003 | 环球科学 | 科学美国人中文版，一些科普文章 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://feedx.net)  |  [订阅地址](https://feedx.net/rss/huanqiukexue.xml) |
 | T004 | MIT 科技评论 | MIT 科技评论 本周热榜 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rsshub.v2fy.com)  |  [订阅地址](https://rsshub.v2fy.com/mittrchina/hot) |  
 | T005 | 产品运营 | 产品运营 - 人人都是产品经理 | [‣ 拆解老君山 6 万月薪营销：真正高手，从不花钱买流量 \| 2026-07-09](https://www.woshipm.com/operate/6426972.html)<br/>[‣ 借助AI，让企业软件售前成功率翻倍 \| 2026-07-09](https://www.woshipm.com/operate/6425474.html)  |  [订阅地址](http://www.woshipm.com/category/operate/feed) |  
@@ -215,10 +215,10 @@
 | A001 | 青柠学术 | 每个科研小白都有成为大神的潜力 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://iseex.github.io)  |  [订阅地址](https://iseex.github.io/feed) |  
 | <h2 id="生活类">生活类</h2> |  |   |  |
 | L001 | 李子柒 | 李子柒的微博 | {{latest_content}}  |  [订阅地址[x]](https://rsshub.v2fy.com/weibo/user/2970452952) |  
-| L002 | 理想生活实验室 | 为更理想的生活 | [‣ 实验室带你过周末：2026.7.11 - 7.12 上海篇 \| 2026-07-10](http://www.toodaylab.com/84113)<br/>[‣ 加入“自在小事节”，生物基材料品牌 SORONA 解锁可持续推广的新场景 \| 2026-07-10](http://www.toodaylab.com/84103)  |  [订阅地址](https://www.toodaylab.com/rss) |  
+| L002 | 理想生活实验室 | 为更理想的生活 | [‣ 今日消费资讯：% ARABICA 安曼 The Walk 店开业、优衣库 x 迪士尼 x F1 联名 UT 系列第二弹发售 \| 2026-07-11](http://www.toodaylab.com/84114)<br/>[‣ 实验室带你过周末：2026.7.11 - 7.12 上海篇 \| 2026-07-11](http://www.toodaylab.com/84113)  |  [订阅地址](https://www.toodaylab.com/rss) |  
 | L003 | 一兜糖 | 家的主理人社区 | {{latest_content}}  |  [订阅地址[x]](https://rsshub.v2fy.com/yidoutang/index) |
 | <h2 id="设计类">设计类</h2> |  |   |  |
-| D001 | Behance |  Adobe旗下设计网站Behance | [‣ Nearness \| 2026-07-10](https://www.behance.net/gallery/252458331/Nearness)<br/>[‣ Mixtape Work #2 \| 2026-07-10](https://www.behance.net/gallery/251882421/Mixtape-Work-2)  |  [订阅地址](https://www.behance.net/feeds/projects) |  
+| D001 | Behance |  Adobe旗下设计网站Behance | [‣ WUTHERING HEIGHTS \| 2026-07-11](https://www.behance.net/gallery/252221759/WUTHERING-HEIGHTS)<br/>[‣ INDEX Power \| 2026-07-11](https://www.behance.net/gallery/251132593/INDEX-Power)  |  [订阅地址](https://www.behance.net/feeds/projects) |  
 | D002 | Behance官方博客 |  Behance官方博客 | [‣ How to Recover From Burnout \| 2022-07-01](https://medium.com/behance-blog/how-to-recover-from-burnout-d9d783a09c68?source=rss-f5272b7f3182------2)<br/>[‣ Meet This Month’s Guest Curator: AJ Jefferies \| 2022-07-01](https://medium.com/behance-blog/meet-this-months-guest-curator-aj-jeffries-df95220b780f?source=rss-f5272b7f3182------2)  |  [订阅地址](https://medium.com/feed/@behance) |  
 | D003 | Pinterest |  图片设计社交 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://newsroom.pinterest.com)  |  [订阅地址](https://newsroom.pinterest.com/en/feed/posts.xml) |  
 | D004 | 优设 |  优秀设计联盟-优设网-设计师交流学习平台-看设计文章，学软件教程，找灵感素材，尽在优设网！ | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.uisdc.com)  |  [订阅地址](https://www.uisdc.com/feed) |  
@@ -228,31 +228,31 @@
 | <h2 id="内容平台">内容平台</h2> |  |   |  |
 | C001 | 知乎 | 知乎每日精选 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.zhihu.com)  |  [订阅地址](https://www.zhihu.com/rss) |  
 | C002 | 湾区日报 | 关注创业与技术，每天推送3到5篇优质英文文章 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://wanqu.co)  |  [订阅地址](https://wanqu.co/feed/) |  
-| C003 | 爱范儿 | 让未来触手可及 | [‣ 百度搭子重新定义 Agent「托付半径」 \| 2026-07-10](https://www.ifanr.com/1671618?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 奇瑞风云 A9 预售，11.59 万元起，想做同级最美纯电轿车 \| 2026-07-10](https://www.ifanr.com/1671578?utm_source=rss&utm_medium=rss&utm_campaign=)  |  [订阅地址](https://www.ifanr.com/feed) |  
-| C004 | 小众软件 | 小众软件RSS | [‣ Catime 开发者，真跑去种地了？ \| 2026-07-10](https://www.appinn.com/catime-1-5/)<br/>[‣ 本周赛博领鸡蛋：《新星群岛》《纹身大亨》《公主农夫》（7.10~7.16） \| 2026-07-10](https://www.appinn.com/eggs-26710/)  |  [订阅地址](https://www.appinn.com/feed/) |  
+| C003 | 爱范儿 | 让未来触手可及 | [‣ 早报｜苹果起诉OpenAI/努比亚倪飞披露AI智能体手机细节/小米澎程N90升降车顶曝光 \| 2026-07-11](https://www.ifanr.com/1671681?utm_source=rss&utm_medium=rss&utm_campaign=)<br/>[‣ 百度搭子重新定义 Agent「托付半径」 \| 2026-07-11](https://www.ifanr.com/1671618?utm_source=rss&utm_medium=rss&utm_campaign=)  |  [订阅地址](https://www.ifanr.com/feed) |  
+| C004 | 小众软件 | 小众软件RSS | [‣ MapToPoster JS – 低调又有范儿的地图海报 \| 2026-07-11](https://www.appinn.com/maptoposter-js/)<br/>[‣ SumatraPDF Plus 增强版：完美中文排版、全渲染暗黑模式、双击查词、大文件加速 \| 2026-07-11](https://www.appinn.com/sumatrapdf-plus/)  |  [订阅地址](https://www.appinn.com/feed/) |  
 | C005 | 199IT | 互联网数据资讯网 | [‣ 社会登记的全球见解：覆盖范围及未来演进 \| 2026-07-09](http://www.199it.com/archives/1783480.html)<br/>[‣ Allianz：2026年全球贸易调查报告 \| 2026-07-09](http://www.199it.com/archives/1823482.html)  |  [订阅地址](https://www.199it.com/feed) |  
-| C006 | IT之家 | IT之家 - 软媒旗下网站 | [‣ SK 海力士 CEO 郭鲁正：内存行业明年将迎来史上最严峻局势，供不应求局面或持续至下一个十年 \| 2026-07-10](https://www.ithome.com/0/975/380.htm)<br/>[‣ Win11 用户反馈微软 Phone Link 问题：内存占用超 90%，网速下降 83.33% \| 2026-07-10](https://www.ithome.com/0/975/379.htm)  |  [订阅地址](https://www.ithome.com/rss) |  
+| C006 | IT之家 | IT之家 - 软媒旗下网站 | [‣ 微软回应 Xbox 裁员争议：并非用外籍员工取代美国员工 \| 2026-07-11](https://www.ithome.com/0/975/640.htm)<br/>[‣ 漫威《复仇者联盟 5》概念图原图公开：超二十位角色亮相，12 月 18 日北美公映 \| 2026-07-11](https://www.ithome.com/0/975/639.htm)  |  [订阅地址](https://www.ithome.com/rss) |  
 | C007 | HelloGitHub 月刊 | 一切出于兴趣。兴趣是最好的老师，HelloGitHub 就是帮你找到编程的兴趣。 | [‣ HelloGitHub 第 123 期 \| 2026-06-29](https://hellogithub.com/periodical/volume/123)<br/>[‣ HelloGitHub 第 122 期 \| 2026-06-29](https://hellogithub.com/periodical/volume/122)  |  [订阅地址](https://hellogithub.com/rss) |  
 | C008 | 蠎周刊 | Python各种Weekly中译版。 | [‣ 上周蠎超赞 26w25 #526 \| 2026-06-27](https://weekly.pychina.org/awesomepw/awesome-pw-526.html)<br/>[‣ 上周蠎超赞 26w24 #525 \| 2026-06-27](https://weekly.pychina.org/awesomepw/awesome-pw-525.html)  |  [订阅地址](https://weekly.pychina.org/feeds/all.atom.xml) |  
 | C009 | WordPress大学 | WordPress建站资源平台 | [‣ WordPress 正确移除 Feed 输出的 wellformedweb.org/CommentAPI 恶意网址 \| 2026-06-08](https://www.wpdaxue.com/remove-wfw-commentapi-link.html)<br/>[‣ 修复 Yoast SEO 在多语言网站输出Schema首页为其他语言网址的问题 \| 2026-06-08](https://www.wpdaxue.com/fix-yoast-seo-schema-output.html)  |  [订阅地址](https://www.wpdaxue.com/feed) |  
 | C010 | Linux中国 | Linux中文开源社区 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://linux.cn)  |  [订阅地址](https://linux.cn/rss.xml) |  
 | C011 | V2EX | 创意工作者的社区 | {{latest_content}}  |  [订阅地址[x]](https://www.v2ex.com/index.xml) |  
 | C012 | 酷壳(左耳朵耗子) | 酷 壳RSS | [‣ 是微服务架构不香还是云不香？ \| 2023-05-08](https://coolshell.cn/articles/22422.html)<br/>[‣ 我看ChatGPT: 为啥谷歌掉了千亿美金 \| 2023-05-08](https://coolshell.cn/articles/22398.html)  |  [订阅地址](https://coolshell.cn/feed) |  
-| C013 | 豆瓣 | 豆瓣最受欢迎的影评 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.douban.com)  |  [订阅地址](https://www.douban.com/feed/review/movie) |  
-| C014 | 豆瓣 | 豆瓣最受欢迎的书评 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.douban.com)  |  [订阅地址](https://www.douban.com/feed/review/book) |  
-| C015 | 豆瓣 | 豆瓣最受欢迎的乐评 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.douban.com)  |  [订阅地址](https://www.douban.com/feed/review/music) |  
+| C013 | 豆瓣 | 豆瓣最受欢迎的影评 | [‣ 《功夫女足》6分：不算难看，但周星驰正在透支我们最后一点爱 (评论: 功夫女足) \| 2026-07-11](https://movie.douban.com/review/17697817/)<br/>[‣ 江郎才尽的平庸之作（尬的能抠出三室一厅） (评论: 功夫女足) \| 2026-07-11](https://movie.douban.com/review/17697863/)  |  [订阅地址](https://www.douban.com/feed/review/movie) |  
+| C014 | 豆瓣 | 豆瓣最受欢迎的书评 | [‣ 蒋方舟《主人公》问题汇总 (评论: 主人公) \| 2026-07-06](https://book.douban.com/review/17690326/)<br/>[‣ 马克龙纪念历史学教授布洛赫移葬先贤祠的讲话 (评论: 奇怪的战败) \| 2026-07-06](https://book.douban.com/review/17670396/)  |  [订阅地址](https://www.douban.com/feed/review/book) |  
+| C015 | 豆瓣 | 豆瓣最受欢迎的乐评 | [‣ 麦当娜重回舞池：新闻才是娱乐行业最大的流量 (评论: CONFESSIONS II) \| 2026-07-11](https://music.douban.com/review/17698479/)<br/>[‣ 果蝇 (评论: Fruit Fly) \| 2026-07-11](https://music.douban.com/review/17698515/)  |  [订阅地址](https://www.douban.com/feed/review/music) |  
 | C016 | 开源中国 | 开源中国社区推荐文章 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.oschina.net)  |  [订阅地址](https://www.oschina.net/blog/rss) |  
 | C017 | 博客园 | 博客园精华区 | [暂无法通过爬虫获取信息, 点击进入源网站主页](http://feed.cnblogs.com)  |  [订阅地址](http://feed.cnblogs.com/blog/picked/rss) |  
-| C018 | 博客园 | 博客园首页 | [‣ PXE + Kickstart 无人值守批量部署系统 - xyh0703 \| 2026-07-10](https://www.cnblogs.com/xyh0703/p/21348535)<br/>[‣ 【刷机】OPPO R9st 获取Root权限 - 清风来叙 \| 2026-07-10](https://www.cnblogs.com/minuhy/p/21348253)  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
+| C018 | 博客园 | 博客园首页 | [‣ C# vs Go：Agentic 时代的语言分层 - 张善友 \| 2026-07-11](https://www.cnblogs.com/shanyou/p/21368348)<br/>[‣ 【机器人 / 强化学习】QAM：基于伴随匹配的 Q-learning 流策略优化 - 罗西的思考 \| 2026-07-11](https://www.cnblogs.com/rossiXYZ/p/21092602)  |  [订阅地址](http://feed.cnblogs.com/blog/sitehome/rss) |  
 | C019 | PTT(台湾论坛) | PTT电影专题 | {{latest_content}}  |  [订阅地址[x]](https://www.ptt.cc/atom/movie.xml) |  
 | C020 | PTT(台湾论坛) | PTT正妹专题 | {{latest_content}}  |  [订阅地址[x]](https://www.ptt.cc/atom/beauty.xml) |  
 | C021 | 吾爱破解 | 吾爱破解精品软件区 | {{latest_content}}  |  [订阅地址[x]](https://rsshub.v2fy.com/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html) |  
 | C022 | cnBeta.COM 精彩优秀评论 | 从cnBeta每天数千评论中精选出来的优秀评论 | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://www.cnbeta.com)  |  [订阅地址](https://www.cnbeta.com/commentrss.php) |  
 | C023 | 比特客栈的文艺复兴 | We do not choose who we are, but we do choose who we become. | [‣ 次世代动画的狂想曲 \| 2026-07-05](https://bitinn.net/11829/)<br/>[‣ 在加速世界里，寻找永恒浪漫 \| 2026-07-05](https://bitinn.net/11808/)  |  [订阅地址](https://bitinn.net/feed/) |  
-| C024 | Pixiv(艺术家社区) | 男性向作品排行 - 前20 | [‣ 99日目 花海咲季 \| 2026-07-08](https://www.pixiv.net/artworks/146981864)<br/>[‣ ラーメン屋のシステムを全く理解していないジェンティルさん \| 2026-07-08](https://www.pixiv.net/artworks/147007123)  |  [订阅地址](https://rakuen.thec.me/PixivRss/male-20) |
-| C025 | Pixiv(艺术家社区) | 女性向作品排行 - 前20 | [‣ 「まよいまねかれ」再録 \| 2026-07-08](https://www.pixiv.net/artworks/146974680)<br/>[‣ 断罪される令嬢② \| 2026-07-08](https://www.pixiv.net/artworks/147005186)  |  [订阅地址](https://rakuen.thec.me/PixivRss/female-20) |
-| C026 | Pixiv(艺术家社区) | Pixiv每日排行 - 前20 | [‣ 7月7日 \| 2026-07-07](https://www.pixiv.net/artworks/146943503)<br/>[‣ 黄泉 \| 2026-07-07](https://www.pixiv.net/artworks/146943457)  |  [订阅地址](http://rakuen.thec.me/PixivRss/daily-20) |  
-| C027 | Pixiv(艺术家社区) | Pixiv每月排行 - 前20 | [‣ ローエン \| 2026-06-11](https://www.pixiv.net/artworks/145891695)<br/>[‣ 72日目 姫崎莉波 \| 2026-06-11](https://www.pixiv.net/artworks/145891560)  |  [订阅地址](http://rakuen.thec.me/PixivRss/monthly-20) |  
+| C024 | Pixiv(艺术家社区) | 男性向作品排行 - 前20 | [‣ 100日目 花海佑芽 \| 2026-07-09](https://www.pixiv.net/artworks/147017299)<br/>[‣ ノゾミーーーーーーーーー！ \| 2026-07-09](https://www.pixiv.net/artworks/147028734)  |  [订阅地址](https://rakuen.thec.me/PixivRss/male-20) |
+| C025 | Pixiv(艺术家社区) | 女性向作品排行 - 前20 | [‣ 【会社と私生活】二人の浴衣 \| 2026-07-10](https://www.pixiv.net/artworks/147028781)<br/>[‣ 五悠ログ⑥ \| 2026-07-10](https://www.pixiv.net/artworks/147013453)  |  [订阅地址](https://rakuen.thec.me/PixivRss/female-20) |
+| C026 | Pixiv(艺术家社区) | Pixiv每日排行 - 前20 | [‣ Hello, new wonder!! \| 2026-07-09](https://www.pixiv.net/artworks/146999120)<br/>[‣ 【会社と私生活】二人の浴衣 \| 2026-07-09](https://www.pixiv.net/artworks/147028781)  |  [订阅地址](http://rakuen.thec.me/PixivRss/daily-20) |  
+| C027 | Pixiv(艺术家社区) | Pixiv每月排行 - 前20 | [‣ カフカ \| 2026-06-12](https://www.pixiv.net/artworks/145935525)<br/>[‣ 雪月花 \| 2026-06-12](https://www.pixiv.net/artworks/145929246)  |  [订阅地址](http://rakuen.thec.me/PixivRss/monthly-20) |  
 | C028 | cnBeta | 中文业界资讯 | [‣ 1024：程序员的“青春饭”还稳吗？ \| 2022-10-26](https://m.cnbeta.com/view/1330241.htm)<br/>[‣ 这趟绿皮慢火车开了52年：26.5元从没涨过价 \| 2022-10-26](https://m.cnbeta.com/view/1329189.htm)  |  [订阅地址](https://feedx.net/rss/cnbetatop.xml) |  
 | C029 | China Daily News | 中国每日新闻 | [‣ 2022 Beijing Games launching worldwide search for volunteers \| 2019-12-04](http://www.chinadaily.com.cn/cndy/2019-12/04/content_37527520.htm)<br/>[‣ Ronaldo reigns in Italy \| 2019-12-04](http://www.chinadaily.com.cn/cndy/2019-12/04/content_37527519.htm)  |  [订阅地址](http://www.chinadaily.com.cn/rss/cndy_rss.xml) |  
 | C030 | MM范 | 妹子热门图 | {{latest_content}}  |  [订阅地址[x]](https://rsshub.v2fy.com/95mm/tab/热门) |  
@@ -262,11 +262,11 @@
 | <h2 id="影视资源">影视资源</h2> |  |   |  |
 | M001 | VIP影院 |  666影院 - 全网VIP电影免费看！ | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://bukaivip.com)  |  [订阅地址](https://bukaivip.com/rss) |  
 | M002 | LimeTorrents |  Latest Torrents RSS | {{latest_content}}  |  [订阅地址[x]](https://www.limetorrents.pro/rss/) |
-| M003 | Torlock |  种子站Torlock | [‣ \[Erai-raws\] Kami no Shizuku - 14 \[1080p CR WEBRip HEVC AAC\]\[MultiSub\]\[F8F4355D\].mkv \| 2026-07-10](https://www.torlock.com/torrent/67744807/kami-no-shizuku-14-%5B1080p-cr-webrip-hevc-aac%5D%5Bmultisub%5D%5Bf8f4355d%5D.html)<br/>[‣ \[Erai-raws\] kokoore - 02 \[1080p CR WEBRip HEVC AAC\]\[MultiSub\]\[E15CA49A\].mkv \| 2026-07-10](https://www.torlock.com/torrent/67744799/kokoore-02-%5B1080p-cr-webrip-hevc-aac%5D%5Bmultisub%5D%5Be15ca49a%5D.html)  |  [订阅地址](https://www.torlock.com/rss.xml) | 
+| M003 | Torlock |  种子站Torlock | [‣ \[Yameii\] Grow Up Show - Sunflower Circus - S01E02 \[English Dub\] \[CR WEB-DL 720p H264 AAC\] \[DD8FEC1F\].mkv \| 2026-07-11](https://www.torlock.com/torrent/67745827/%5Byameii%5D-grow-up-show-sunflower-circus-s01e02-%5Benglish-dub%5D-%5Bcr-web-dl-720p-h264-aac%5D-%5Bdd8fec1f%5D.html)<br/>[‣ \[Judas\] Class de 2 Banme ni Kawaii Onnanoko to Tomodachi ni Natta (I Made Friends with the Second Prettiest Girl in My Class) (Season 01) \[1080p\]\[HEVC x265 10bit\]\[Multi-Subs\] \| 2026-07-11](https://www.torlock.com/torrent/67745826/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-%28i-made-friends-with-the-second-prettiest-.html)  |  [订阅地址](https://www.torlock.com/rss.xml) | 
 | M004 | YTS |  Most popular Torrents in the smallest file size | {{latest_content}}  |  [订阅地址[x]](https://yts.mx/rss) | 
 | M005 | RARBG |  种子站RARBG | [暂无法通过爬虫获取信息, 点击进入源网站主页](https://rarbg.to)  |  [订阅地址](https://rarbg.to/rss.php) | 
 | <h2 id="游戏">游戏</h2> |  |   |  |
-| G001 | 机核网 |  不止是游戏 | [‣ 机洞Vol.30｜最怕洗脸时闭上眼 \| 2026-07-10](https://www.gcores.com/radios/216728)<br/>[‣ 我真是个没用的老登啊｜机事本7.4-7.10 \| 2026-07-10](https://www.gcores.com/articles/217016)  |  [订阅地址](https://www.gcores.com/rss) |  
+| G001 | 机核网 |  不止是游戏 | [‣ 人心惶惶，核周报 7.11 \| 2026-07-11](https://www.gcores.com/radios/216723)<br/>[‣ 谢谢你NS，让我玩到这五款神作【视频播客音频版】 \| 2026-07-11](https://www.gcores.com/radios/217041)  |  [订阅地址](https://www.gcores.com/rss) |  
 | G002 | 游研社 |  无论你是游戏死忠，还是轻度的休闲玩家，在这里都能找到感兴趣的东西。 | [‣ 潮启盛夏・元聚徐汇 \| 2026元界夏日嘉年华重磅启幕 \| 2026-07-09](https://www.yystv.cn/p/14137)<br/>[‣ 在沙尘暴里开上线发布会，能“野”到什么程度？ \| 2026-07-09](https://www.yystv.cn/p/14138)  |  [订阅地址](https://www.yystv.cn/rss/feed) |  
 | G003 | 游戏葡萄 |  深度解读游戏  | {{latest_content}}  |  [订阅地址[x]](https://rsshub.v2fy.com/gamegrape/13) |  
 | <h2 id="资源类">资源类</h2> |  |   |  |
@@ -316,7 +316,7 @@
 ## 以下是自动生成的
 
 邮件内容区开始>
-<h3>新鲜出炉的0个小面包🍰 出炉时间 2026-07-11 08:03:12 保质期24小时，请尽快食用</h3>
+<h3>新鲜出炉的0个小面包🍰 出炉时间 2026-07-12 08:00:37 保质期24小时，请尽快食用</h3>
 
 
 
